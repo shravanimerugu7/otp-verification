@@ -1,0 +1,48 @@
+p{
+    color: rgb(90, 89, 89);
+    text-align: center;
+}
+input {
+    margin: -280px 0px 0px 35px;
+    height: 35px;
+    width: 65px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-family: arimo;
+    font-size: 1.2rem;
+    background: #eef2f3;
+}
+
+.verify{
+    border-radius: 50px;
+    height: 40px;
+    width: 250px;
+    margin: 100px 0px 0px -95px;
+    position: absolute;
+    top: 200px;
+   -ms-transform: translateY(-50%);
+    transform: translateY(-50%); 
+    background-color: rgb(31, 102, 29);
+    color: white;
+}
+
+.change-number{
+    margin-left: -400px;
+    color: blue;
+}
+
+.re-send{
+    margin: -45px -50px 0px 400px;
+    color: blue;
+}
+
+button{
+    height: 50px;
+    width: 250px;
+    margin: 50px 0px 0px 50px;
+    top: 50px;
+    color: rgb(2, 29, 16);
+    font-family: arimo;
+    font-size: 1.2rem;
+}
